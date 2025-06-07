@@ -101,7 +101,7 @@ python app.py
 
 ## Design Decisions & Model Choices (Micro Paper)
 
-All model decisions and prompt strategies are explained in `micropaper.md`. It covers:
+All model decisions and prompt strategies are explained in `micropaper.md` It covers:
 * Why Tacotron2 and HiFi-GAN were used for TTS
 * Tradeoffs of Stable Diffusion v1.4 vs other variants
 * Why Docker was used for reproducibility
@@ -109,6 +109,4 @@ All model decisions and prompt strategies are explained in `micropaper.md`. It c
 
 ## License
 
-MIT License. See LICENSE file for details.
-
----
+MIT License. See LICENSE file for details
