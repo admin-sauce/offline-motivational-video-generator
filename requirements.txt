@@ -1,0 +1,7 @@
+torch==2.2.2
+transformers==4.40.1
+diffusers==0.25.1
+huggingface_hub==0.20.3
+tts==0.22.0
+Pillow==10.2.0
+moviepy==1.0.3
